@@ -1,0 +1,10 @@
+.idea
+src/ai-agent/.env
+src/ai-agent/.virtual_env
+src/ai-agent/.venv
+src/ai-agent/.cache
+src/ai-agent/logs.db
+src/ai-agent/__pycache__/
+src/ai-agent/hive-agent-data
+src/frontend/.env
+.vscode

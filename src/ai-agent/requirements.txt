@@ -1,0 +1,17 @@
+fastapi==0.110.1
+uvicorn==0.23.2
+python-dotenv==1.0.1
+toml==0.10.2
+llama-index==0.10.59
+web3==6.15.1
+py-solc-x==2.0.2
+eth-account==0.11.0
+SQLAlchemy==2.0.29
+aiosqlite==0.20.0
+python-multipart==0.0.9
+llama-index-llms-anthropic
+llama-index-llms-mistralai
+llama-index-llms-ollama
+llama-index-llms-openai
+langtrace-python-sdk
+git+https://github.com/hivenetwork-ai/hive-agent-py.git
